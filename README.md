@@ -4,7 +4,7 @@
 
 ![vr-goggles-on-david-martinez](https://github.com/user-attachments/assets/4bd04795-2a14-4d4f-80f5-0fbd1c4ab06d)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andreaschiariti" alt="andreaschiariti" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreaschiariti&show_icons=true&locale=en" alt="andreaschiariti" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
