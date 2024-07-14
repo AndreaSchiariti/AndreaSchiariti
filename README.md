@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrea!</h1>
 <h3 align="center">A development student</h3>
 <h4 align="center"> 😄 Pronouns: he/ them </h4>
-<div class="tenor-gif-embed" data-postid="26914999" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/vr-goggles-on-david-martinez-cyberpunk-edgerunners-wearing-vr-goggles-getting-into-the-virtual-reality-world-gif-26914999">Vr Goggles On David Martinez Sticker</a>from <a href="https://tenor.com/search/vr+goggles+on-stickers">Vr Goggles On Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+[](https://tenor.com/it/view/vr-goggles-on-david-martinez-cyberpunk-edgerunners-wearing-vr-goggles-getting-into-the-virtual-reality-world-gif-26914999)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andreaschiariti" alt="andreaschiariti" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
